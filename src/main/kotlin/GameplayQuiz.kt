@@ -1,6 +1,5 @@
 class GameplayQuiz {
 
-    val textForForm: TextForForm = TextForForm()
     val readle: Task = Task()
     var currentPuzzle: Puzzle = Puzzle()
 

@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68b5746f-2a6b-40f3-a425-1c9fb376bd36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FormQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/GameplayQuiz.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TextForForm.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MainFunctionQuiz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/MainFunctionQuiz.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Puzzle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Puzzle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Task.kt" afterDir="false" />
+    <list default="true" id="68b5746f-2a6b-40f3-a425-1c9fb376bd36" name="Changes" comment="master">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/GameplayQuiz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/GameplayQuiz.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +76,16 @@
       <updated>1709366994998</updated>
       <workItem from="1709366999330" duration="3517000" />
       <workItem from="1709380720446" duration="4114000" />
-      <workItem from="1709399539474" duration="6335000" />
+      <workItem from="1709399539474" duration="6677000" />
     </task>
+    <task id="LOCAL-00001" summary="master">
+      <created>1709406186141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709406186141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master" />
+    <option name="LAST_COMMIT_MESSAGE" value="master" />
   </component>
 </project>
