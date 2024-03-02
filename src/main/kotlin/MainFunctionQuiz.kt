@@ -1,3 +1,8 @@
-fun main (args: Array<String>){
-    println("Hello World")
+
+fun main (args: Array<String>) {
+
+    val quiz : FormQuiz = FormQuiz()
+
+    quiz.runFormQuiz()
+
 }
