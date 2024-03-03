@@ -12,13 +12,10 @@ class GameplayQuiz {
         return currentPuzzle.question
     }
 
-    fun checkUsersResponse (currentAnswer: String): Int {
+    fun checkUsersResponse (currentAnswer: String): Boolean {
 
-        if(currentPuzzle.answer == currentAnswer){
-            return 1
-        }else{
-            return 0
-        }
+        return if(currentPuzzle.answer == currentAnswer) true else false
+
 
     }
 

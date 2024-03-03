@@ -10,7 +10,8 @@ public class FormQuiz extends JFrame{
     private GameplayQuiz gameplayQuiz = new GameplayQuiz();
 
     //private String question, answer;
-    private int resu, correctly, total;
+    private int correctly, total;
+    private boolean resu;
 
     public FormQuiz() {
         super("Harry_Potter");
@@ -39,7 +40,7 @@ public class FormQuiz extends JFrame{
 
             resu = gameplayQuiz.checkUsersResponse(textField.getText());
 
-            if (resu == 1) {
+            if (resu) {
                 correctly++;
                 label.setText(textForForm.getCorrectly());
             } else {
