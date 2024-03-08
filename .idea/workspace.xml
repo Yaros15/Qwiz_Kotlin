@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68b5746f-2a6b-40f3-a425-1c9fb376bd36" name="Changes" comment="master">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FormQuiz.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FormQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FormQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/GameplayQuiz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/GameplayQuiz.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FormQuiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MainFunctionQuiz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/MainFunctionQuiz.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Calculator_JavaScript&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,9 +63,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestFormFromQuizKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestFormFromQuizKt" />
+      <module name="Qwiz_Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFormKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestFormKt" />
+      <module name="Qwiz_Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.MainFunctionQuizKt" />
+        <item itemvalue="Kotlin.TestFormFromQuizKt" />
+        <item itemvalue="Kotlin.TestFormKt" />
         <item itemvalue="Kotlin.FirstFileKt" />
       </list>
     </recent_temporary>
@@ -79,7 +97,12 @@
       <workItem from="1709366999330" duration="3517000" />
       <workItem from="1709380720446" duration="4114000" />
       <workItem from="1709399539474" duration="7155000" />
-      <workItem from="1709451281688" duration="370000" />
+      <workItem from="1709451281688" duration="1900000" />
+      <workItem from="1709820912980" duration="287000" />
+      <workItem from="1709823017185" duration="626000" />
+      <workItem from="1709881774638" duration="558000" />
+      <workItem from="1709882743751" duration="6232000" />
+      <workItem from="1709900355338" duration="3030000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1709406186141</created>
@@ -95,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709406298663</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="master">
+      <created>1709451937965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709451937965</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
